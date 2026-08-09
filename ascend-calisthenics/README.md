@@ -36,7 +36,7 @@ there. That confirms everything's working before you deploy.
 **1. Create a new repository on GitHub**
 Go to github.com → New repository → name it `ascend-calisthenics` (or
 whatever you want — see the note below if you use a different name) → don't
-initialize with a README (you already have one) → Create repository.
+initialize with a README (y ou already have one) → Create repository.
 
 **2. Push this code to it**
 From inside the `ascend-calisthenics` folder:
